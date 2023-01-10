@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <p>I am a web developer, I will write the best code for you in HTML, CSS, JS!</p>
 <a href="https://www.buymeacoffee.com/ITUnit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a><br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ITUnitt)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ITUnitt)](https://github.com/ITUnitt/github-profile-trophy)
 <!--https://github-profile-trophy.vercel.app/?username=ITUnitt-->
 
 
