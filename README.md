@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
-<p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey, I am a web developer, I will write the best code for you in HTML, CSS, JS!)](https://git.io/typing-svg)</p>
+<p>I am a web developer, I will write the best code for you in HTML, CSS, JS!</p>
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-https://github-profile-trophy.vercel.app/?username=ITUnitt
+[https://github-profile-trophy.vercel.app/?username=ITUnitt](https://github.com/ITUnitt/github-profile-trophy)
 
 
 <!--
