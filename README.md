@@ -1,7 +1,7 @@
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ITUnitt&theme=tokyonight&no-frame=true)](https://github.com/ITUnitt/github-profile-trophy)<br /><br /> -->
-<a href="https://www.buymeacoffee.com/ITUnit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ITUnitt&theme=tokyonight&no-frame=true)](https://github.com/ITUnitt/github-profile-trophy)<br /><br />
 <h1 align="center">Hello 👋</h1>
 <p>I am a web developer, I will write the best code for you in HTML, CSS, JS!</p><br />
+<a href="https://www.buymeacoffee.com/ITUnit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITUnitt)](https://github.com/ITUnitt/github-readme-stats)-->
 <!--
 **ITUnitt/ITUnitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
